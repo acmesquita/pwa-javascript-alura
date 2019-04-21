@@ -1,0 +1,9 @@
+CACHE MANIFEST
+
+CACHE:
+css/
+js/
+img/
+
+NETWORK:
+*
